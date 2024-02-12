@@ -59,7 +59,7 @@ This project uses machine learning to predict stock prices based on historical d
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the Apache License 2.0.
 
 ---
 
