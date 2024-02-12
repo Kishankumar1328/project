@@ -19,7 +19,7 @@ This project uses machine learning to predict stock prices based on historical d
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your_username/stock-price-prediction.git
+   git clone https://github.com/Kishankumar1328/stock-price-prediction.git
    cd stock-price-prediction
    ```
 
